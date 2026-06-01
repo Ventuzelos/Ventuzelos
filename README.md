@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi, I'm Angela Pereira 👋
+UX/UI Designer & Front-End Developer
 
-<!--
-**Ventuzelos/Ventuzelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Developer and UX/UI Designer passionate about turning ideas into intuitive and engaging digital experiences. My experience includes product design, user experience, and front-end development.
 
-Here are some ideas to get you started:
+🔭 Currently working on personal projects and expanding my GitHub portfolio
+🌱 Currently expanding my expertise in React, Node.js, Vue.js, modern web architectures, and AI-powered products.
+👯 Open to collaborating on Front-End and Product Design projects
+💬 Ask me about UX/UI Design, Front-End Development, and Product Design
+📫 Reach me on LinkedIn or Behance
+⚡ Fun fact: I enjoy bridging the gap between design and development to create seamless digital experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+Frontend
+HTML
+CSS / SCSS
+JavaScript
+React
+Design
+Figma
+Design Systems
+Prototyping
+User Experience Design
+
+Tools
+Git
+GitHub
+VS Code
+VS Studio
+
+🚀 Featured Projects
+ Movie Management System
+ Design System Library
+ SaaS Dashboard
+ Personal Portfolio
+
+🌐 Connect with Me
+LinkedIn: linkedin.com/in/angelaventuzelospereira
+Behance: behance.net/angelapereira2
